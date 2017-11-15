@@ -1,0 +1,28 @@
+{
+  "name": "hubot-voice-client",
+  "version": "1.0.0",
+  "description": "Simple voice client for hubot. Stream speech-to-text live recording to hubot-voice-adapter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fredoid/hubot-voice-client.git"
+  },
+  "keywords": [
+    "hubot",
+    "voice",
+    "client",
+    "audio"
+  ],
+  "author": "Frédéric Jeanpierre <fjp.webmaster@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fredoid/hubot-voice-client/issues"
+  },
+  "homepage": "https://github.com/Fredoid/hubot-voice-client#readme",
+  "dependencies": {
+    "speech-to-text": "latest"
+  }
+}
